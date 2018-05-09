@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guess My Number</string>
+    <string name="headline_hint">You need to guess a whole number.</string>
+    <string name="button">Guess</string>
+    <string name="guess_hint">Guess your number!</string>
+    <string name="image_result"></string>
+</resources>

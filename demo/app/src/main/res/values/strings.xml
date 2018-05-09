@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome_msg_before_login">Please enter your user name and password</string>
+    <string name="welcome_msg_after_login_normal">Voilà!</string>
+    <string name="welcome_msg_after_login_bonus">Happy Friday!</string>
+    <string name="login_name_input">Please enter your user name</string>
+    <string name="login_password_input">Enter password</string>
+    <string name="login_success_bonus">Welcome!</string>
+    <string name="click_button_text">CLICK!</string>
+</resources>
